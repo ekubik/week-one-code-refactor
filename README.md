@@ -26,10 +26,8 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 
-The website should appear as follows:
+Once the acceptance criteria were met, the site was to appear as in the demo image provided. Changes were made to enhance and improve the code structure without altering the appearance of the website.
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/01-html-css-git-homework-demo.png)
+The completed project can be viewed here: https://ekubik.github.io/week-one-code-refactor/
 
-Once the acceptance criteria were met, the site appeared as in the demo image above. Changes were made to enhance and improve the code structure without altering the appearance of the website.
-
-The completed project can be viewed here:
+<img src=./Assets/weekonehw-screenshot.png>
