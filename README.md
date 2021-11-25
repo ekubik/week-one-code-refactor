@@ -30,4 +30,4 @@ Once the acceptance criteria were met, the site was to appear as in the demo ima
 
 The completed project can be viewed here: https://ekubik.github.io/week-one-code-refactor/
 
-<img src=./Assets/weekonehw-screenshot.png>
+<img src=./assets/weekonehw-screenshot.png>
